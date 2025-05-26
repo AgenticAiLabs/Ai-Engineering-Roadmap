@@ -108,6 +108,17 @@ We welcome feedback, issues, and pull requests!
 
 Check out [`CONTRIBUTING.md`](./CONTRIBUTING.md) to learn how to help shape this curriculum.
 
+## More Resources
+
+- [DeepLearning.AI](https://www.deeplearning.ai/)
+- [Fast.ai](https://www.fast.ai/)
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [MIT OpenCourseWare: Introduction to Deep Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
+- [Papers with Code](https://paperswithcode.com/)
+- [Hugging Face Course](https://huggingface.co/learn)
+- [Google AI Education](https://ai.google/education/)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
 ## License
 
 This project is licensed under the MIT License.  

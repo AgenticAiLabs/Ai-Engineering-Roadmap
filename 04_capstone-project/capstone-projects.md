@@ -52,6 +52,40 @@ Train an RL agent to play a simple game (e.g. CartPole, Flappy Bird, custom env)
 - Tools: OpenAI Gym, Stable-Baselines3
 - Bonus: Visualize learning progress and game play
 
+## Helpful Resources
+
+### Learning Platforms
+- [DeepLearning.AI Projects](https://www.deeplearning.ai/projects/)
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+- [Fast.ai Practical Deep Learning](https://course.fast.ai/)
+- [Google AI Colab Notebooks](https://research.google.com/seedbank/)
+
+### Tools & Frameworks
+- [Hugging Face Spaces](https://huggingface.co/spaces)
+- [Gradio](https://gradio.app/)
+- [Streamlit](https://streamlit.io/)
+- [MLflow – Open Source MLOps](https://mlflow.org/)
+- [Weights & Biases](https://wandb.ai/)
+
+### Project Resources
+- [Papers with Code – AI Projects](https://paperswithcode.com/sota)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [Model Zoo](https://modelzoo.co/)
+- [GitHub Trending AI Projects](https://github.com/trending/jupyter-notebook)
+
+### Deployment Platforms
+- [Hugging Face](https://huggingface.co/)
+- [Render](https://render.com/)
+- [Heroku](https://www.heroku.com/)
+- [AWS SageMaker](https://aws.amazon.com/sagemaker/)
+- [Google Cloud AI Platform](https://cloud.google.com/ai-platform)
+
+### Community & Support
+- [AI Stack Exchange](https://ai.stackexchange.com/)
+- [Machine Learning subreddit](https://www.reddit.com/r/MachineLearning/)
+- [Kaggle Discussions](https://www.kaggle.com/discussions)
+- [Discord AI servers](https://discord.com/servers/ai)
 
 ## Project Deliverables
 
