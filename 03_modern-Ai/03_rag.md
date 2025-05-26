@@ -62,6 +62,18 @@ Covers:
 - Re-ranking strategies
 - Optimizing chunk size, temperature, prompt context
 
+### 5. Advanced RAG Resources
+
+- [Awesome RAG (GitHub)](https://github.com/0xpayne/awesome-rag) — **Curated list**
+- [RAG End-to-End Tutorial (YouTube, Pinecone)](https://www.youtube.com/watch?v=Vv0bKz0j7uY) — **Free**
+- [RAG with OpenAI and ChromaDB (Blog)](https://blog.langchain.dev/rag-openai-chromadb/) — **Free**
+- [RAG Evaluation and Metrics (Cohere)](https://docs.cohere.com/docs/rag-evaluation) — **Free**
+
+Covers:
+- End-to-end RAG pipelines
+- Evaluation and metrics for RAG
+- Open-source RAG tools and frameworks
+
 ## Suggested Projects & Practice
 
 - Build a "Chat with Docs" tool using LangChain and FAISS

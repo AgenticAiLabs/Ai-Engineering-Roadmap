@@ -61,6 +61,40 @@ Covers:
 - Embeddings and vector stores (FAISS, ChromaDB)
 - Hybrid search and document injection
 
+### 5. LLM Security & Ethics
+
+- [AI Security & Safety (DeepMind)](https://deepmind.com/research/publications/2023/ai-safety-and-security) — **Free**
+- [Responsible AI Practices (Google)](https://ai.google/responsibilities/responsible-ai-practices/) — **Free**
+- [LLM Security Risks (OWASP)](https://owasp.org/www-community/attacks/LLM_Attacks) — **Free**
+
+Covers:
+- Security risks in LLM deployment
+- Bias, fairness, and responsible use
+- Mitigation strategies and best practices
+- Building chatbots, agents, and tools
+- Prompt injection and safety
+
+### 3. Open-Source LLMs
+
+- [Hugging Face Transformers Course](https://huggingface.co/learn/nlp-course/) — **Free**
+- [Running LLaMA or Mistral on Local Hardware – Guides](https://huggingface.co/blog/llama2) — **Free**
+
+Covers:
+- Working with models like LLaMA 2, Mistral, Falcon
+- Loading models via `transformers` and `transformers.js`
+- Tokenizers, inference speed, quantization
+
+### 4. Fine-Tuning & Retrieval-Augmented Generation (RAG)
+
+- [Fine-tuning LLMs with LoRA – Hugging Face](https://huggingface.co/blog/lora) — **Free**
+- [RAG with Haystack or LangChain – Tutorials](https://www.youtube.com/watch?v=Lk4TzDNsCzU) — **Free**
+- [Full-Stack LLM Bootcamp – Cohere](https://fullstackdeeplearning.com/llm-bootcamp/) — **Free**
+
+Covers:
+- Fine-tuning with LoRA/QLoRA
+- Embeddings and vector stores (FAISS, ChromaDB)
+- Hybrid search and document injection
+
 ### 5. Ethics, Safety & Evaluation
 
 - [Responsible AI with LLMs – DeepLearning.AI Short Course](https://www.deeplearning.ai/short-courses/responsible-llms/) — **Free**

@@ -72,6 +72,18 @@ Covers:
 - Sharing models, datasets, and projects with others
 - Finding reusable components for your AI stack
 
+### 5. Advanced AI Tooling Resources
+
+- [Awesome MLOps (GitHub)](https://github.com/visenger/awesome-mlops) — **Curated list**
+- [AI Tooling Landscape (Papers with Code)](https://paperswithcode.com/area/ai) — **Free**
+- [MLOps Community](https://mlops.community/) — **Community**
+- [Best Practices for ML Engineering (Google)](https://developers.google.com/machine-learning/guides/rules-of-ml) — **Free**
+
+Covers:
+- MLOps and production AI
+- Tooling trends and best practices
+- Community and open-source resources
+
 ## Suggested Projects & Practice
 
 - Deploy a model as a web app using Gradio or FastAPI
