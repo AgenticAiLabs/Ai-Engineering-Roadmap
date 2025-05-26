@@ -68,6 +68,21 @@ Covers:
 - Fine-tuning pre-trained models for specific NLP tasks
 - Using Hugging Face’s Transformers library
 
+### 6. Advanced NLP Resources
+
+- [Awesome NLP (GitHub)](https://github.com/keon/awesome-nlp) — Curated list of NLP libraries, datasets, and papers
+- [Papers With Code – NLP](https://paperswithcode.com/area/natural-language-processing) — Latest research and code implementations
+- [Hugging Face Model Hub](https://huggingface.co/models) — Repository of pre-trained NLP models
+- [spaCy Universe](https://spacy.io/universe) — NLP tools, extensions, and pipelines
+- [ACL Anthology](https://aclanthology.org/) — Research papers from top NLP conferences
+- [NLU Benchmark Leaderboards](https://super.gluebenchmark.com/) — State-of-the-art benchmarks for NLP tasks
+
+Covers:
+- SOTA models and leaderboards
+- Open-source NLP toolkits and libraries
+- Access to latest datasets and research
+- Community-curated resources
+
 ## Suggested Practice & Projects
 
 - Build a spam classifier using Naive Bayes or SVM

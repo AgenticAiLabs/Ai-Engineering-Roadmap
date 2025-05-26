@@ -71,6 +71,21 @@ Covers:
 - Lane detection and traffic sign classification
 - Safety and edge deployment
 
+### 6. Advanced Computer Vision Resources
+
+- [Awesome Computer Vision (GitHub)](https://github.com/jbhuang0604/awesome-computer-vision) — Curated list of papers, datasets, and libraries
+- [Papers With Code – Computer Vision](https://paperswithcode.com/area/computer-vision) — Latest research and code implementations
+- [MMDetection (OpenMMLab)](https://github.com/open-mmlab/mmdetection) — Powerful open-source object detection toolbox
+- [Albumentations](https://albumentations.ai/) — Fast image augmentation library
+- [CVPR Conference Proceedings](https://openaccess.thecvf.com/CVPR2023?day=all) — Cutting-edge research papers
+- [Roboflow Universe](https://universe.roboflow.com/) — Public datasets and pre-trained models for CV
+
+Covers:
+- SOTA models and benchmarks
+- Data augmentation and preprocessing
+- Open-source toolkits for detection, segmentation, and more
+- Access to latest datasets and research
+
 ## Suggested Practice & Projects
 
 - Build an image classifier for animal species or plants
