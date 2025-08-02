@@ -62,6 +62,18 @@ Covers:
 - Prompt sensitivity, bias, hallucination
 - Output scoring and A/B testing
 
+### 5. Advanced Prompt Engineering Resources
+
+- [Awesome Prompt Engineering (GitHub)](https://github.com/promptslab/awesome-prompt-engineering) — **Curated list**
+- [Prompt Engineering Papers (arXiv)](https://arxiv.org/search/?query=prompt+engineering&searchtype=all) — **Free**
+- [Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — **Free**
+- [Prompt Engineering Leaderboard (Hugging Face)](https://huggingface.co/spaces/mteb/leaderboard) — **Free**
+
+Covers:
+- Research papers and leaderboards
+- Advanced prompt design and evaluation
+- Community-curated resources
+
 ## Suggested Projects & Practice
 
 - Build a prompt that explains a concept at beginner and expert levels

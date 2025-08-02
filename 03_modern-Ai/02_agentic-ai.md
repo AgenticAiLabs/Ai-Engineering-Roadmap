@@ -62,6 +62,18 @@ Covers:
 - Communication between agents
 - Emergent behavior in simulated environments
 
+### 5. Advanced Agentic AI Resources
+
+- [Awesome AI Agents (GitHub)](https://github.com/veritable-tech/awesome-ai-agents) — **Curated list**
+- [AgentBench: Benchmarking Foundation Model Agents](https://arxiv.org/abs/2308.07258) — **Free**
+- [LLM Agents: Open Problems and Opportunities (arXiv)](https://arxiv.org/abs/2307.10169) — **Free**
+- [OpenAgents (GitHub)](https://github.com/openagents/openagents) — **Open Source**
+
+Covers:
+- Benchmarks and evaluation for agentic systems
+- Open-source agentic frameworks
+- Research directions and challenges
+
 ## Suggested Projects & Practice
 
 - Build a Research Agent: takes a question and returns summarized answers

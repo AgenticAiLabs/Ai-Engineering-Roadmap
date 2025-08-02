@@ -70,6 +70,21 @@ Covers:
 - RL in simulation (CARLA, MuJoCo, Unity)
 - Real-world applications: robotics, games, automation
 
+### 6. Advanced RL Resources
+
+- [Awesome Reinforcement Learning (GitHub)](https://github.com/aikorea/awesome-rl) — Curated list of RL papers, libraries, and environments
+- [Papers With Code – RL](https://paperswithcode.com/area/reinforcement-learning) — Latest RL research and code implementations
+- [RL Baselines3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo) — Collection of RL agents and training benchmarks
+- [DeepMind x UCL RL Course](https://www.deepmind.com/learning-resources/-deep-reinforcement-learning-lecture-series-2021) — Advanced RL lectures and materials
+- [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/) — Educational resources and implementations for RL
+- [RL Conference Proceedings (NeurIPS, ICML, ICLR)](https://papers.nips.cc/) — Cutting-edge RL research papers
+
+Covers:
+- SOTA RL algorithms and benchmarks
+- Open-source RL toolkits and libraries
+- Access to latest datasets and research
+- Community-curated resources
+
 ## Suggested Practice & Projects
 
 - Solve CartPole and MountainCar using Q-learning and DQN
