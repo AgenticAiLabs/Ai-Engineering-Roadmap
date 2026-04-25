@@ -2,6 +2,9 @@
 > A complete path to becoming a self-taught AI Engineer — from first lines of code to building autonomous AI agents.  
 > Inspired by [OSSU-CS](https://github.com/ossu/computer-science), powered by free, open-source resources.
 
+<img width="2814" height="1536" alt="roadmap" src="https://github.com/user-attachments/assets/b93bc615-3dc3-48e2-9e4e-61f0c0e9ad99" />
+
+
 
 ## Table of Contents
 
@@ -56,14 +59,14 @@ Follow the curriculum in order, or jump to any section you’re ready for. Each 
 | 3 | 🤖 Machine Learning | [Start Here](./01_foundation/03_machine-learning.md) | 6–8 weeks |
 | 4 | 🧠 Deep Learning | [Start Here](./01_foundation/04_deep-learning.md) | 4–6 weeks |
 | 5 | 🔬 NLP | [Natural Language Processing](./02_specializations/nlp.md) | 3–4 weeks |
-|   | 👁️ Computer Vision | [Computer Vision](./02_specializations/computer-vision.md) | 3–4 weeks |
-|   | 🧭 RL | [Reinforcement Learning](./02_specializations/reinforcement-learning.md) | 3–5 weeks |
-| 6 | 🚀 LLMs | [Large Language Models](./03_modern-Ai/01_llms.md) | 2–3 weeks |
-|   | ⚙️ Agentic AI | [Agentic AI](./03_modern-Ai/02_agentic-ai.md) | 2–3 weeks |
-|   | 🔄 RAG | [Retrieval-Augmented Generation](./03_modern-Ai/03_rag.md) | 1–2 weeks |
-|   | 🧠 Prompt Engineering | [Prompt Engineering](./03_modern-Ai/04_prompt-engineering.md) | 1–2 weeks |
-|   | 🧰 AI Tooling | [AI Tooling](./03_modern-Ai/05_ai-tooling.md) | 1–2 weeks |
-| 7 | 🧪 Capstone | [Capstone Projects](./04_capstone-project/capstone-projects.md) | Ongoing |
+| 6 | 👁️ Computer Vision | [Computer Vision](./02_specializations/computer-vision.md) | 3–4 weeks |
+| 7 | 🧭 RL | [Reinforcement Learning](./02_specializations/reinforcement-learning.md) | 3–5 weeks |
+| 8 | 🚀 LLMs | [Large Language Models](./03_modern-Ai/01_llms.md) | 2–3 weeks |
+| 9 | ⚙️ Agentic AI | [Agentic AI](./03_modern-Ai/02_agentic-ai.md) | 2–3 weeks |
+| 10 | 🔄 RAG | [Retrieval-Augmented Generation](./03_modern-Ai/03_rag.md) | 1–2 weeks |
+| 11 | 🧠 Prompt Engineering | [Prompt Engineering](./03_modern-Ai/04_prompt-engineering.md) | 1–2 weeks |
+| 12 | 🧰 AI Tooling | [AI Tooling](./03_modern-Ai/05_ai-tooling.md) | 1–2 weeks |
+| 13 | 🧪 Capstone | [Capstone Projects](./04_capstone-project/capstone-projects.md) | Ongoing |
 
 ## Goals
 
