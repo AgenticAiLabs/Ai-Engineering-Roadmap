@@ -84,7 +84,7 @@ Follow the curriculum in order, or jump to any section you’re ready for. Each 
 
 1. Start with the [Foundational](./01_foundation)
 2. Work at your own pace — most tracks list beginner → advanced
-3. Track your progress in a fork or markdown file
+3. Track your progress in a fork or Markdown file
 4. Build portfolio projects as you go
 5. Join discussions, contribute, and grow with others!
 
