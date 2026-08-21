@@ -1,6 +1,6 @@
 # Agentic AI
 
-Agentic AI refers to systems that operate autonomously, making decisions and taking actions toward goals without constant human supervision. This is a core area of modern AI, where models like LLMs are embedded within agents that can plan, reason, and interact with tools and environments.
+Agentic AI refers to systems that operate autonomously, making decisions and taking actions toward goals without constant human supervision. This is a core area of modern AI, where models like LLMs[...] 
 
 ## Learning Objectives
 
@@ -13,7 +13,7 @@ By the end of this module, you should be able to:
 
 ## Why It’s Important
 
-Agentic systems are key to making LLMs actually *useful* in real-world applications — from autonomous research assistants to customer service bots and AI co-pilots. They unlock continuous reasoning, memory, planning, and decision-making.
+Agentic systems are key to making LLMs actually *useful* in real-world applications — from autonomous research assistants to customer service bots and AI co-pilots. They unlock continuous reason[...]
 
 
 ## Core Topics & Resources
@@ -43,7 +43,7 @@ Covers:
 ### 3. Agentic Frameworks
 
 - [LangChain Agents](https://docs.langchain.com/docs/components/agents/) — **Free**
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) — **Free, Open Source**
+- [Auto-GPT (Torantulino)](https://github.com/Torantulino/Auto-GPT) — **Free, Open Source**
 - [CrewAI (Multi-Agent Framework)](https://github.com/joaomdmoura/crewAI) — **Free**
 
 Covers:
@@ -73,6 +73,19 @@ Covers:
 - Benchmarks and evaluation for agentic systems
 - Open-source agentic frameworks
 - Research directions and challenges
+
+### Hands-on Tutorials & Example Repos
+
+- [ReAct: Synergizing Reasoning and Acting in Language Models (arXiv)](https://arxiv.org/abs/2210.03629) — Paper introducing the ReAct paradigm for combining reasoning and actions in LLMs — **Free**
+- [langchain-ai/langchain-examples (GitHub)](https://github.com/langchain-ai/langchain-examples) — Example agent implementations, notebooks, and patterns for LangChain — **Free**
+- [yoheinakajima/BabyAGI (GitHub)](https://github.com/yoheinakajima/babyagi) — Minimal agent loop implementation useful for prototyping ideas — **Free, Open Source**
+- [Torantulino/Auto-GPT (GitHub)](https://github.com/Torantulino/Auto-GPT) — Autonomous agent that demonstrates goal-driven multi-step behavior — **Free, Open Source**
+- [microsoft/autogen (GitHub)](https://github.com/microsoft/autogen) — Microsoft’s toolkit for multi-agent orchestration and simulations — **Free, Open Source**
+
+Covers:
+- Ready-to-run examples and templates to build agents quickly
+- Minimal implementations for learning agent loops and memory
+- Notebooks and tutorials that demonstrate tool use and function calling
 
 ## Suggested Projects & Practice
 
